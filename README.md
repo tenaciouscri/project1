@@ -1,4 +1,4 @@
-#WELCOME TO README!#
+#ATTENTION: read carefully!#
 
 Hello! This is a README file.
 
