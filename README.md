@@ -5,4 +5,5 @@ Latest updates:
 2. Removed bugs
 3. Improved speed and reliability
 
+Update to check passphrase issue. Updated again.
 
