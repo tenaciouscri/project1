@@ -1,6 +1,8 @@
 #ATTENTION: read carefully!#
 
-Hello! This is a README file.
+##WELCOME!##
+
+This is a README file.
 
 Latest updates:
 1. Added version 2.0
